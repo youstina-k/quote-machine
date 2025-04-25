@@ -81,13 +81,13 @@ button {
   .wrapper {
     width: 95%; /* More width for mobile */
     max-width: none;
-    margin-top: 20px; /* Space from top */
+    margin-top: 160px; 
   }
 
   #quote-box {
-    width: 90vw;
+    width: 80vw;
     min-height: min-content;
-    max-height: 85vh;
+    max-height: 75vh;
     margin-left: 0;
     padding: 25px 15px;
     justify-content: flex-start; /* Content starts from top */
